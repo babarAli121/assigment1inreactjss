@@ -1,0 +1,33 @@
+.newsletter {
+  background: rgb(144, 144, 253);
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.newsletter form {
+  margin-top: 20px;
+}
+
+.newsletter input {
+  padding: 10px;
+  border: none;
+  border-radius: 6px 0 0 6px;
+  width: 250px;
+}
+
+.newsletter button {
+  padding: 10px 20px;
+  border: none;
+  background: black;
+  color: white;
+  border-radius: 0 6px 6px 0;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out; 
+
+
+}
+.newsletter button:hover {
+  background: rgb(144, 144, 253);
+  transform: scale(1.1);
+}

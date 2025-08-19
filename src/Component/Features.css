@@ -1,0 +1,20 @@
+.features {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.feature-list {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.feature {
+  background: white;
+  border: 1px solid #ddd;
+  padding: 20px;
+  width: 200px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
